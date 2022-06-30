@@ -18,5 +18,7 @@ public class IPCheck {
         if (matcher.matches())
             System.out.println("Correct IP address");
         else System.out.println("Wrong format of your value! Restart and try again");
+
+        scanner.close();
     }
 }
