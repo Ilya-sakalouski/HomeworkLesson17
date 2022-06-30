@@ -1,4 +1,4 @@
-package src.ip;
+package src.ipcheck;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;

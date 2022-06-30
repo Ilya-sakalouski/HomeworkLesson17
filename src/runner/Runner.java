@@ -1,6 +1,6 @@
 package src.runner;
 
-import src.ip.IPCheck;
+import src.ipcheck.IPCheck;
 
 public class Runner {
     public static void main(String[] args) {
